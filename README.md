@@ -1,30 +1,30 @@
-# Salom, Men Azizbek! 👋 (aka @azurebek)
+# Hi there, I'm Azizbek! 👋 (aka @azurebek)
 
 ### 🚀 AI & Web Developer | International Relations Student
 
-Men hozirda Turkiyada, **Karabük University**da Xalqaro munosabatlar (IR) yo'nalishida 1-kurs talabasiman. Shu bilan birga, zamonaviy texnologiyalar, ayniqsa **AI**, **Data Science** va **Web Development**ga chuqur qiziqaman.
+I am a 1st-year **International Relations** student at **Karabük University**, Turkey. Beyond politics and diplomacy, I am deeply passionate about bridging the gap between social sciences and technology through **AI**, **Data Science**, and **Full-stack Development**.
 
 ---
 
-### 🛠 Men hozirda nimalar bilan bandman?
-- 🏫 **AzureLMS**: O'zimning shaxsiy loyiham – Django va **RAG (Gemini API + Vector DB)** texnologiyalari asosida qurilgan aqlli ta'lim platformasi ustida ishlayapman.
-- 🐍 **Backend**: Python va Django ekotizimini mukammal o'rganyapman.
-- 📈 **Double Major**: Sentyabrdan boshlab **Iqtisodiyot (Economy)** yo'nalishida ham o'qishni reja qilganman.
+### 🛠 What I'm working on
+- 🏫 **AzureLMS**: Developing an intelligent learning management system powered by **Django** and **RAG (Gemini API + pgvector)**.
+- 🐍 **Backend Mastery**: Enhancing my skills in Python, Django REST Framework, and scalable system architecture.
+- 📈 **Academic Growth**: Starting a **Double Major in Economy** this September.
 
-### 🎯 Kelajakdagi maqsadlarim
-- 🇩🇪 Bakalavrdan so'ng Germaniyada **Social Data Science** bo'yicha Master va PhD darajasini olish.
-- 🗣 Ingliz tilini **C1**, Nemis tilini **A2** darajasiga chiqarish.
-- 🌍 Siyosat va Texnologiya chorrahasida innovatsion yechimlar yaratish.
+### 🎯 Future Goals
+- 🇩🇪 Pursuing a Master's and PhD in **Social Data Science** in Germany.
+- 🗣 Reaching **C1 English** and **A2 German** proficiency by the end of my bachelor's.
+- 🌍 Innovating at the intersection of political theory and computational social science.
 
 ---
 
-### 📊 Mening GitHub Statistikam
+### 📊 GitHub Statistics
 ![Azizbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=azurebek&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azurebek&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Men bilan bog'laning:
+### 📫 Connect with me:
 - 🌐 Website: [azurebek.me](https://azurebek.me)
 - ✈️ Telegram: [@azurebek](https://t.me/azurebek)
 - 📸 Instagram: [@azurebekdev](https://instagram.com/azurebekdev)
@@ -32,4 +32,4 @@ Men hozirda Turkiyada, **Karabük University**da Xalqaro munosabatlar (IR) yo'na
 
 ---
 
-> *"Falsafa, siyosat va kod – dunyoni tushunish va o'zgartirish uchun mening qurollarim."* 🏛️💻
+> *"Philosophy, politics, and code – my tools for understanding and shaping the world."* 🏛️💻
